@@ -9,7 +9,7 @@ This project will create a recipe website. The goal is to make an index page and
 
 ## Visuals
 
-## Instullations
+## Installations
 
 ## Usage
 
@@ -17,7 +17,7 @@ This project will create a recipe website. The goal is to make an index page and
 
 ## Roadmap
 
-## Contriputing
+## Contributing
 
 ## Authors and Acknowledgment
 
