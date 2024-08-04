@@ -1,0 +1,60 @@
+*
+*::before,
+*::after {
+	box-sizing:border-box
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+	background-color: #CBC3E3;
+}
+
+
+#title {
+	color: white;
+	background-color: #EB3678;
+	font-weight: bold;
+	font-size: 30px;
+	font-family:Courier New, Serif;
+	text-align: center;
+	padding:#EB3678;
+	padding: 15px;
+	border: 10px solid #FB773C;
+	margin: 16px 100px;
+}
+
+
+.food {
+	color: white;
+	background-color:#4F1787;
+	font-family: Garamond, serif;
+	font-size: 20px;
+}
+
+
+ul {
+	list-style: none;
+	color: white;
+	display:flex;
+}
+
+li {
+	display: inline-block;
+	margin-right: 2px;
+        background-color:#4F1787;
+	text-align: center;
+        padding: 15px 30px;   
+        border:10px double #180161;
+	margin:3px;
+        flex-grow: 1;
+        font-family: Garamond, serif;
+}
+
+img {
+	margin: 6px;
+}
+
+span {
+	background-color:#4F1787;
+}

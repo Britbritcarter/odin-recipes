@@ -1,0 +1,44 @@
+*,
+*::before
+*::after {
+	box-sizing: border-box;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #CBC3E3;
+}
+
+h1 {
+	font-family: Garamond, serif;
+	text-align: center;
+	color: white;
+	background-color: #EB3678;
+	padding: 15px;
+	border: 6px double #FB773C;
+	margin: 16px 50px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 8px;
+	width: auto;
+}
+
+h3 {
+	margin: 6px 10px;
+}
+
+p {
+	margin: 6px 10px;
+}
+
+li {
+	margin: 6px 10px;
+	list-style-position: inside;
+}
+
+
